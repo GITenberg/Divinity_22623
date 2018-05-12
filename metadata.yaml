@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33434
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Samachson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22623#Divinity
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-09-16'
 gutenberg_type: Text
